@@ -1,0 +1,13 @@
+{
+    "cfgAutoClose": 310,
+    "cfgEnd": 302,
+    "cfgStart": 301,
+    "cfgWakeupTime": 320,
+    "dataKey": 210,
+    "dataLine": 220,
+    "lastSent": 110,
+    "modalMessage": 120,
+    "uploadDone": 130,
+    "uploadFailed": 150,
+    "uploadStart": 140
+}

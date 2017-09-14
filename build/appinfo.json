@@ -1,0 +1,50 @@
+{
+    "targetPlatforms": [
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "uuid": "d2cb5dda-d554-47d7-bed7-357bd1685ed7", 
+    "messageKeys": {
+        "cfgWakeupTime": 320, 
+        "uploadDone": 130, 
+        "cfgAutoClose": 310, 
+        "modalMessage": 120, 
+        "cfgStart": 301, 
+        "uploadFailed": 150, 
+        "cfgEnd": 302, 
+        "uploadStart": 140, 
+        "dataLine": 220, 
+        "lastSent": 110, 
+        "dataKey": 210
+    }, 
+    "companyName": "GreenLSI", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.2", 
+    "capabilities": [
+        "health", 
+        "configurable"
+    ], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "cfgWakeupTime": 320, 
+        "uploadDone": 130, 
+        "cfgAutoClose": 310, 
+        "modalMessage": 120, 
+        "cfgStart": 301, 
+        "uploadFailed": 150, 
+        "cfgEnd": 302, 
+        "uploadStart": 140, 
+        "dataLine": 220, 
+        "lastSent": 110, 
+        "dataKey": 210
+    }, 
+    "longName": "Pebble Health Export", 
+    "shortName": "Health POST", 
+    "watchapp": {
+        "watchface": false
+    }, 
+    "resources": {
+        "media": []
+    }
+}
